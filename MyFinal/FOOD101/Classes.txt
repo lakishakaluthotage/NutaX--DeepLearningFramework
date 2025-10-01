@@ -1,0 +1,10 @@
+id	name
+
+1	Cheesecake
+2	Chicken wings
+3	Chocolate cake
+4	Chocolate mousse
+5	Caesar salad
+6	Bibimbap
+
+
